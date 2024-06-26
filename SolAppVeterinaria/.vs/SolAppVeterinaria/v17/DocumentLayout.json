@@ -1,12 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vegal\\Desktop\\webmaster\\AppCitasVeterinaria\\SolAppVeterinaria\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Documentos\\GitHub\\AppCitasVeterinaria\\SolAppVeterinaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E72DCEFF-3493-42A7-9BAC-DE6523A8D3AB}|WebAppVeterinaria\\WebAppVeterinaria.csproj|d:\\documentos\\github\\appcitasveterinaria\\solappveterinaria\\webappveterinaria\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72DCEFF-3493-42A7-9BAC-DE6523A8D3AB}|WebAppVeterinaria\\WebAppVeterinaria.csproj|solutionrelative:webappveterinaria\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\AppCitasVeterinaria\\SolAppVeterinaria\\WebAppVeterinaria\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppVeterinaria\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\AppCitasVeterinaria\\SolAppVeterinaria\\WebAppVeterinaria\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppVeterinaria\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:32:44.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

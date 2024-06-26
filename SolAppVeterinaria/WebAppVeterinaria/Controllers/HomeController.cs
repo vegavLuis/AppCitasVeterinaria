@@ -10,7 +10,7 @@ namespace WebAppVeterinaria.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "App";
 
             return View();
         }
